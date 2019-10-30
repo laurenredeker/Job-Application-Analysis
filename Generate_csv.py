@@ -1,3 +1,5 @@
+#I'm using gmail, and had to generate a two-factor auth PW here: https://security.google.com/settings/security/apppasswords
+
 # Imports
 import pandas as pd
 import numpy as np
