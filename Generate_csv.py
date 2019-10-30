@@ -82,7 +82,7 @@ df = df[['Date', 'Time', 'Day', 'Hour', 'Sender', 'Subject', 'Text']]
 # Export to csv
 df.to_csv('sample.csv', index=False)
 
-
+ 
 
 
 
