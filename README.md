@@ -1,5 +1,3 @@
 # Job Application Analysis #
 
-Creating analysis on all of the jobs I applied to during my senior year of college. 
-
-*not finished*
+Exploratory data analysis on all of the jobs I applied to during my senior year of college.
